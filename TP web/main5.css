@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    text-transform: uppercase;
+  
+    background-image:url("fond 8.jpg");
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    height: 100% ;
+  }
+  h1 {
+    font-size: 80px;
+    color: rgb(150, 34, 34);
+  }
+  p  {
+    font-size: 30px;
+    color: rgb(150, 34, 34);
+  }
+    
+         
+
+
+  

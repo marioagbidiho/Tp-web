@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    text-transform: uppercase;
+  
+    background-image:url("villagejpg.jpg");
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    height: 100% ;
+  }
+  h1 {
+    font-size: 80px;
+    color: rgb(108, 131, 66);
+  }
+  p  {
+    font-size: 30px;
+  }
+
+    
+    

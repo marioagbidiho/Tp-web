@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    text-transform: uppercase;
+  
+    background-image:url("fond 7.jpg");
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    height: 100% ;
+  }
+
+    
+         
+.city {
+    background-color: rgb(56, 25, 48);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  

@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    text-transform: uppercase;
+  
+    background-image:url("fond 10.jpg");
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    height: 100% ;
+  }
+
+    h2 {
+        font-size: 30px;
+
+            background-color:LightGray;
+            color: black;
+           
+          }
+         
